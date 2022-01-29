@@ -1,5 +1,6 @@
 {
-  "name": "tic-tac-toe",
+  "homepage": "https://hadiul-islam.github.io/[YOUR REPO NAME]",
+  "name": "starter-react-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

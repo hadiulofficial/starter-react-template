@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/[YOUR%20REPO%20NAME]/static/css/main.c7ec3132.css",
-    "main.js": "/[YOUR%20REPO%20NAME]/static/js/main.12541250.js",
-    "index.html": "/[YOUR%20REPO%20NAME]/index.html",
-    "main.c7ec3132.css.map": "/[YOUR%20REPO%20NAME]/static/css/main.c7ec3132.css.map",
-    "main.12541250.js.map": "/[YOUR%20REPO%20NAME]/static/js/main.12541250.js.map"
+    "main.css": "/starter-react-template/static/css/main.c7ec3132.css",
+    "main.js": "/starter-react-template/static/js/main.12541250.js",
+    "index.html": "/starter-react-template/index.html",
+    "main.c7ec3132.css.map": "/starter-react-template/static/css/main.c7ec3132.css.map",
+    "main.12541250.js.map": "/starter-react-template/static/js/main.12541250.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
